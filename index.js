@@ -1,6 +1,8 @@
 var express = require('express'),
     app = express(),
     bodyParser = require('body-parser');
+    const port = process.env.PORT || 8080;
+
 
 var todoRoutes = require('./routes/todos');
 
@@ -16,7 +18,7 @@ app.get('/', function(req, res){
 
 app.use('/api/todos', todoRoutes);
 
-app.listen(8080, function(){
-    console.log("APP IS RUNNING ON PORT " + 8080 )
+app.listen(port, function(){
+    console.log("APP IS RUNNING ON PORT " + port )
 });
 
