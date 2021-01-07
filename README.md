@@ -35,6 +35,12 @@ I have used Heroku's infrastructure to deploy the code on cloud.
 The app is available to be used and tried at this [link](https://dry-crag-26562.herokuapp.com/).
 
 
+## Credits
+
+
+This app was a result of my learnings from [The Advanced Web Developer BootCamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp/)
+
+
 
 
 
