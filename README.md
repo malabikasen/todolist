@@ -10,8 +10,17 @@ I wanted to learn Full-Stack Web Development in Javascript and a simple To-Do Li
 ## Technology Stack
 
 
-I used the MERN stack (without react, for now) to build my Single Page Application (SPA). For those who are not well-versed with the acronym, MERN stands for Mongo DB, Express, React and Node.js.
+I used the MERN stack (without React, for now) to build my Single Page Application (SPA). For those who are not well-versed with the acronym, MERN stands for Mongo DB, Express, React and Node.js.
 
 
 The application uses Express to create a RESTful API which would help with the CRUD operations. Mongo DB was used as a database to persist the tasks. Node.js was used to serve the application on the internet.  
+
+
+
+## Architecture
+
+
+The architecture of my application can be explained with the help of the below diagram -
+
+
 
