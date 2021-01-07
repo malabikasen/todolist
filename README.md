@@ -1,6 +1,9 @@
 # todolist
 A To-Do List Single Page Application built using the MERN stack - Express, Mongo DB and Node.js
 
+![To-Do List](https://github.com/malabikasen/todolist/blob/master/todolist.PNG)
+
+
 
 ## Motivation
 
@@ -23,6 +26,15 @@ The application uses Express to create a RESTful API which would help with the C
 The architecture of my application can be explained with the help of the below diagram -
 
 ![Architecture Diagram](https://github.com/malabikasen/todolist/blob/master/ToDoList%20Architecture%20Diagram.png)
+
+
+## Deployment
+
+
+I have used Heroku's infrastructure to deploy the code on cloud. 
+The app is available to be used and tried at this [link](https://dry-crag-26562.herokuapp.com/).
+
+
 
 
 
