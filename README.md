@@ -22,5 +22,8 @@ The application uses Express to create a RESTful API which would help with the C
 
 The architecture of my application can be explained with the help of the below diagram -
 
+![Architecture Diagram](https://github.com/malabikasen/todolist/blob/master/ToDoList%20Architecture%20Diagram.png)
+
+
 
 
